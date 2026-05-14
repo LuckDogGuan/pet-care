@@ -22,7 +22,8 @@ npm.cmd run dev
 
 ```bash
 npm.cmd run build
-npm.cmd run start -- -p 3000
+npm.cmd run dev -- --hostname 127.0.0.1 --port 3000
+
 ```
 
 ## 主要功能
