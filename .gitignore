@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+/assets
+/index.html
+next-start.log
+next-start.err.log
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
